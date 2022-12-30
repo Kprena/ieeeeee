@@ -77,3 +77,9 @@ font-size:12px;
         border-radius: 15px;
     }
 }
+@media (max-width:600px)
+{
+    .section-menu ul li{
+       font-size: 9px;
+    }
+}
